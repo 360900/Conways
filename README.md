@@ -1,5 +1,7 @@
 # Conway's Game of Life
 
+![Game of Life in light and dark mode](docs/img/conways.png)
+
 Fork of https://github.com/855309/gameoflife.git
 
 Infinite, sparse grid with time-travel.
